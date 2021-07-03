@@ -1,0 +1,56 @@
+body {
+  background-color: #212f3d;
+  color: #212529;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  margin: 1;
+  text-align: left;
+  overflow: hidden; /* Hide scrollbars */
+}
+
+.header {
+  background-color: #2874a6;
+  margin-bottom: 0.5rem;
+  padding: 0.5rem 1rem;
+  text-align: left;
+}
+
+.game {
+  margin-bottom: 2rem;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+.green {
+  background-color: #90ee90;
+  margin-bottom: 2rem;
+  padding: 2rem 1rem;
+  text-align: left;
+}
+
+.intro {
+  background-color: #212f3d;
+  padding: 2rem 1rem;
+}
+
+.h1,
+h1 {
+  font-size: 3rem;
+}
+
+.jumbotron {
+  padding-top: 1em;
+  /*padding-right: 60px; */
+  padding-bottom: 0.2em;
+  color: wheat;
+}
+
+.des {
+  float: right;
+  width: 50%;
+}
+
+p {
+  font-size: 1.15em;
+}
