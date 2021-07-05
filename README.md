@@ -16,3 +16,4 @@ Besides visualization, there is some brief description(time complexity included)
 ## How to use?
 
 First, select a sorting algorithm you prefer. Then click "Start sort" to begin. If you would like to restart the process, click "Restart".
+Feel free to try it out! https://visualizealgo.netlify.app/
