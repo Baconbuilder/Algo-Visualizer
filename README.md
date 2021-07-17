@@ -1,6 +1,6 @@
 # Algo-Visualizer
 
-Hi! I've built a web application that visualizes different algorithms as my CS50 final project.
+Hi! I've built a web application that visualizes different algorithms.
 I decided to make a web app that shows the process of sorting data arrays because it is something that I have been wanting to do for a while now, and I could learn a bit more about algorithms while making the web app.
 
 ## What is the web app built with?
